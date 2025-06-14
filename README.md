@@ -1,4 +1,4 @@
-# 📊 Bank Marketing Classification Project
+# 📊 Bank Marketing Classification
 
 Welcome to the **Bank Marketing Classification** project!  
 This project aims to predict whether a client will subscribe to a term deposit based on various demographic and campaign-related features using machine learning techniques.
